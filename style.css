@@ -1,0 +1,75 @@
+.backgroundImage {
+	background-image: url('img/header-bg.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	height: 950px;
+}
+.wrapper header.header > img {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+.header {
+	font-size: 50px;
+	color: white;
+	text-align: center;
+	font-style: italic;
+}
+.headerWrapper {
+	margin-top: 30px;
+}
+.buttonWrapper {
+	text-align: center;
+	margin-top: 30px;
+}
+.button {
+	height: 50px;
+	width: 150px;
+	background-color: transparent;
+	border: none;
+	color: white;
+	justify-content: center;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 30px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+.weAre {
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	margin-top: 290px;
+}
+.Paragraph {
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	font-family: Arial;
+}
+.nospaces {
+	margin: 0;
+	font-weight: 600px;
+}
+.getStartedBtn {
+	align-items: center;
+	justify-content: center;
+	margin-top: 60px;
+	margin-left: 550px;
+}
+.btn {
+	color: black;
+	height: 50px;
+	width: 150px;
+	font-weight: 900px;
+	font-size: 20px;
+}
+.btnArrow {
+	height: 40px;
+	width: 50px;
+	border-radius: 50px;
+	border-color: #91328f;
+	background: #91328f none repeat scroll 0 0;
+}
